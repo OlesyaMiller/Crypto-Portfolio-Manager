@@ -5,7 +5,7 @@ const router = express.Router();
 // @desc    Get all currencies
 // @accsess Private
 router.get('/', (req, res) => {
-    res.send('Get all contacts');
+    res.send('Get all currencies');
 });
 
 // @route   POST    api/currencies
