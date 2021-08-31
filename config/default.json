@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://OlesyaMiller:TQiW6OHrqNoeXRFk@cluster0.npb5l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://OlesyaMiller:TQiW6OHrqNoeXRFk@cluster0.npb5l.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
